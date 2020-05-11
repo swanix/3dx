@@ -1,2 +1,3 @@
-# 3d-swanix
-3D library for Swanix
+# Swanix 3Dx
+
+3D library for Swanix (work in progress)
